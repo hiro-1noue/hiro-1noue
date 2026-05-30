@@ -25,3 +25,4 @@ STATUS="always_learning"
 ```
  
 ---
+I use TS, c++ and Rust
